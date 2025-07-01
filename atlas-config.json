@@ -16,14 +16,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-01T13:19:49.216060"
+    },
+    "3": {
+      "name": "EXT V2",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250701_132028_087123_7ea73782_7268ee6c/EXT.V2.exe",
+      "version": "4",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-01T13:20:49.663851"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 2,
+    "total_apps": 3,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-01T13:19:49.216077"
+  "last_updated": "2025-07-01T13:20:49.663863"
 }
