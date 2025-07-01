@@ -8,14 +8,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-01T13:09:32.258749"
+    },
+    "2": {
+      "name": "NIZZ",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250701_131930_656820_7764b3fc_1dea9078/NIZZ.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-01T13:19:49.216060"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 1,
+    "total_apps": 2,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-01T13:09:32.258775"
+  "last_updated": "2025-07-01T13:19:49.216077"
 }
