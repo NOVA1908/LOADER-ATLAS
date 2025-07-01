@@ -1,12 +1,21 @@
 {
   "version": "1.0.0",
-  "apps": {},
+  "apps": {
+    "1": {
+      "name": "RYTEK",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250701_105740_404022_7a87a0eb_0965e9a6/RYTEK.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-01T11:56:01.696550"
+    }
+  },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 0,
+    "total_apps": 1,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-01T11:52:36.273414"
+  "last_updated": "2025-07-01T11:56:01.696596"
 }
