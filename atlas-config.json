@@ -1,21 +1,12 @@
 {
   "version": "1.0.0",
-  "apps": {
-    "season_4_v1.8": {
-      "name": "File: Season_4_V1.8.exe",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250630_163135_655006_c6460332_d392700e/Season_4_V1.8.exe",
-      "version": "file_20250630_163135_655006_c6460332_d392700e",
-      "category": "atlas",
-      "verified": true,
-      "auto_synced": true
-    }
-  },
+  "apps": {},
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 1,
+    "total_apps": 0,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-01T10:41:23.200386"
+  "last_updated": "2025-07-01T10:44:00.537956"
 }
