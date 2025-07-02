@@ -1,22 +1,12 @@
 {
   "version": "1.0.0",
-  "apps": {
-    "1": {
-      "name": "Ua",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_102905_230864_00aa187e_ee310dfb/UA.exe",
-      "version": "2",
-      "category": "atlas",
-      "verified": true,
-      "added_date": "2025-07-02T10:29:40.279019",
-      "updated_date": "2025-07-02T16:31:30.067813"
-    }
-  },
+  "apps": {},
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 1,
+    "total_apps": 0,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-02T17:27:56.980902"
+  "last_updated": "2025-07-02T17:28:00.710648"
 }
