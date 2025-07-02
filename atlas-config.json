@@ -11,13 +11,13 @@
       "updated_date": "2025-07-02T16:23:27.831426"
     },
     "2": {
-      "name": "Ua",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_102905_230864_00aa187e_ee310dfb/UA.exe",
-      "version": "6",
+      "name": "Zenith",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_105245_433976_c8e85763_9a24279c/ZENITH.exe",
+      "version": "2",
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-02T10:47:20.238111",
-      "updated_date": "2025-07-02T16:06:48.482388"
+      "updated_date": "2025-07-02T16:23:49.178585"
     }
   },
   "settings": {
@@ -27,5 +27,5 @@
     "total_apps": 2,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-02T16:23:27.831446"
+  "last_updated": "2025-07-02T16:23:49.178600"
 }
