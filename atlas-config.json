@@ -10,12 +10,13 @@
       "added_date": "2025-07-02T10:29:40.279019"
     },
     "2": {
-      "name": "NIZZ",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_103151_992062_31b53944_5e30d7be/NIZZ.exe",
-      "version": "1",
+      "name": "Rytek",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_103402_975155_5615858c_34d64545/RYTEK.exe",
+      "version": "2",
       "category": "atlas",
       "verified": true,
-      "added_date": "2025-07-02T10:32:55.756619"
+      "added_date": "2025-07-02T10:32:55.756619",
+      "updated_date": "2025-07-02T10:34:20.095731"
     }
   },
   "settings": {
@@ -25,5 +26,5 @@
     "total_apps": 2,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-02T10:32:55.756635"
+  "last_updated": "2025-07-02T10:34:20.095750"
 }
