@@ -10,13 +10,13 @@
       "added_date": "2025-07-02T10:29:40.279019"
     },
     "2": {
-      "name": "Zenith",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_105245_433976_c8e85763_9a24279c/ZENITH.exe",
-      "version": "5",
+      "name": "Rytek",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_103402_975155_5615858c_34d64545/RYTEK.exe",
+      "version": "7",
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-02T10:47:20.238111",
-      "updated_date": "2025-07-02T10:53:00.715521"
+      "updated_date": "2025-07-02T10:57:38.058230"
     }
   },
   "settings": {
@@ -26,5 +26,5 @@
     "total_apps": 2,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-02T10:53:00.715536"
+  "last_updated": "2025-07-02T10:57:38.058252"
 }
