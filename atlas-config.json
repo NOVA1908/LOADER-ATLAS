@@ -24,14 +24,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-03T16:31:56.751599"
+    },
+    "4": {
+      "name": "EXT FECURITY",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_172954_710318_9f77248b_90d7b3b8/FECURITY.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-03T16:32:11.617436"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 3,
+    "total_apps": 4,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-03T16:31:56.751614"
+  "last_updated": "2025-07-03T16:32:11.617453"
 }
