@@ -24,22 +24,14 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-02T17:30:11.071213"
-    },
-    "4": {
-      "name": "EXTERNAL Q",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_173202_460008_3487d3da_8bf57036/Q.EXT.exe",
-      "version": "1",
-      "category": "atlas",
-      "verified": true,
-      "added_date": "2025-07-02T17:32:21.187808"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 4,
+    "total_apps": 3,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-03T16:30:33.775268"
+  "last_updated": "2025-07-03T16:30:45.700482"
 }
