@@ -32,14 +32,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-02T17:32:21.187808"
+    },
+    "5": {
+      "name": "SUPPORT TOOL",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250703_113553_660600_d2931ee3_2951a21b/SUPPORT.TOOL.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-03T11:36:22.542782"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 4,
+    "total_apps": 5,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-02T17:32:21.187822"
+  "last_updated": "2025-07-03T11:36:22.542819"
 }
