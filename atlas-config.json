@@ -34,13 +34,13 @@
       "added_date": "2025-07-02T17:32:21.187808"
     },
     "5": {
-      "name": "Ua",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_102905_230864_00aa187e_ee310dfb/UA.exe",
-      "version": "2",
+      "name": "Support.tool",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250703_113553_660600_d2931ee3_2951a21b/SUPPORT.TOOL.exe",
+      "version": "1",
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-03T11:36:22.542782",
-      "updated_date": "2025-07-03T11:57:33.505582"
+      "updated_date": "2025-07-03T12:18:25.746355"
     },
     "6": {
       "name": "EXTERNAL BLACK",
@@ -58,5 +58,5 @@
     "total_apps": 6,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-03T11:57:33.505597"
+  "last_updated": "2025-07-03T12:18:25.746375"
 }
