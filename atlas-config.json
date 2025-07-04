@@ -2,12 +2,13 @@
   "version": "1.0.0",
   "apps": {
     "1": {
-      "name": "SUPPORT TOOL (IMPORTANT IF YOU NEVER USE TOOL)",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250703_113553_660600_d2931ee3_2951a21b/SUPPORT.TOOL.exe",
+      "name": "Ua",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_102905_230864_00aa187e_ee310dfb/UA.exe",
       "version": "1",
       "category": "atlas",
       "verified": true,
-      "added_date": "2025-07-03T16:31:23.990264"
+      "added_date": "2025-07-03T16:31:23.990264",
+      "updated_date": "2025-07-04T16:15:43.736208"
     },
     "2": {
       "name": "UNLOCK ALL",
@@ -57,5 +58,5 @@
     "total_apps": 6,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-03T16:33:03.409518"
+  "last_updated": "2025-07-04T16:15:43.736233"
 }
