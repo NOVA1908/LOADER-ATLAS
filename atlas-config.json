@@ -8,14 +8,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-04T18:18:36.114263"
+    },
+    "2": {
+      "name": "UNLOCK ALL",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250704_181657_208062_17c60ba7_81e2028f/UNLOCK.ALL.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-04T18:18:49.916716"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 1,
+    "total_apps": 2,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-04T18:18:36.114282"
+  "last_updated": "2025-07-04T18:18:49.916730"
 }
