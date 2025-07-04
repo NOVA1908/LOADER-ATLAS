@@ -41,22 +41,14 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-03T16:32:46.912234"
-    },
-    "6": {
-      "name": "EXT BLACK",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250703_114540_996270_b782c584_85e72c15/BLACK.EXTERNAL.exe",
-      "version": "1",
-      "category": "atlas",
-      "verified": true,
-      "added_date": "2025-07-03T16:33:03.409503"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 6,
+    "total_apps": 5,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-04T16:24:54.827795"
+  "last_updated": "2025-07-04T18:13:35.979616"
 }
