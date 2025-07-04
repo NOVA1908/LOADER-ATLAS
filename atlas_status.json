@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-04T19:17:03.419591",
+  "last_updated": "2025-07-04T19:17:12.085894",
   "statuses": {
     "1": {
       "status": "undetectable",
@@ -24,6 +24,11 @@
     "5": {
       "status": "undetectable",
       "updated_at": "2025-07-04T19:17:03.419575",
+      "updated_by": "discord_user_280388361904979970"
+    },
+    "6": {
+      "status": "use at your own risk",
+      "updated_at": "2025-07-04T19:17:12.085879",
       "updated_by": "discord_user_280388361904979970"
     }
   },
