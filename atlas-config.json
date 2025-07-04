@@ -33,22 +33,14 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-03T16:32:11.617436"
-    },
-    "5": {
-      "name": "EXT Q",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250702_173202_460008_3487d3da_8bf57036/Q.EXT.exe",
-      "version": "1",
-      "category": "atlas",
-      "verified": true,
-      "added_date": "2025-07-03T16:32:46.912234"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 5,
+    "total_apps": 4,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-04T18:13:35.979616"
+  "last_updated": "2025-07-04T18:13:40.511749"
 }
