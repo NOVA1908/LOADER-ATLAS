@@ -1,34 +1,9 @@
 {
-  "last_updated": "2025-07-04T18:08:34.604666",
+  "last_updated": "2025-07-04T18:32:08.480777",
   "statuses": {
     "1": {
-      "status": "undetectable",
-      "updated_at": "2025-07-04T18:08:34.604621",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "2": {
       "status": "use at your own risk",
-      "updated_at": "2025-07-04T10:26:34.545085",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "3": {
-      "status": "use at your own risk",
-      "updated_at": "2025-07-04T10:26:39.825962",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "4": {
-      "status": "undetectable",
-      "updated_at": "2025-07-04T10:26:46.023084",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "5": {
-      "status": "undetectable",
-      "updated_at": "2025-07-04T10:26:54.807460",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "6": {
-      "status": "undetectable",
-      "updated_at": "2025-07-04T10:27:03.471534",
+      "updated_at": "2025-07-04T18:32:08.480737",
       "updated_by": "discord_user_280388361904979970"
     }
   },
