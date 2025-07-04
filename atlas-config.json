@@ -16,14 +16,22 @@
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-04T18:18:49.916716"
+    },
+    "3": {
+      "name": "BLACK EXTERNAL",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250704_181534_703493_52059aa6_a2d4f999/BLACK.EXTERNAL.exe",
+      "version": "1",
+      "category": "atlas",
+      "verified": true,
+      "added_date": "2025-07-04T18:19:06.007194"
     }
   },
   "settings": {
     "auto_update": true
   },
   "metadata": {
-    "total_apps": 2,
+    "total_apps": 3,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-04T18:18:49.916730"
+  "last_updated": "2025-07-04T18:19:06.007209"
 }
