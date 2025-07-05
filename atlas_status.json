@@ -1,6 +1,11 @@
 {
-  "last_updated": "2025-07-05T16:27:13.013926",
+  "last_updated": "2025-07-05T16:39:30.823507",
   "statuses": {
+    "1": {
+      "status": "offline",
+      "updated_at": "2025-07-05T16:39:30.823485",
+      "updated_by": "discord_user_280388361904979970"
+    },
     "2": {
       "status": "use at your own risk",
       "updated_at": "2025-07-04T19:16:41.331731",
@@ -24,11 +29,6 @@
     "6": {
       "status": "use at your own risk",
       "updated_at": "2025-07-04T19:17:12.085879",
-      "updated_by": "discord_user_280388361904979970"
-    },
-    "1": {
-      "status": "undetected",
-      "updated_at": "2025-07-05T16:27:13.013911",
       "updated_by": "discord_user_280388361904979970"
     }
   },
