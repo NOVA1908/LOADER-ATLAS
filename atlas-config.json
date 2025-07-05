@@ -2,13 +2,13 @@
   "version": "1.0.0",
   "apps": {
     "1": {
-      "name": "Unlock.all",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250704_181657_208062_17c60ba7_81e2028f/UNLOCK.ALL.exe",
+      "name": "Support.tool",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250704_181450_953816_9061df8c_b757b83d/SUPPORT.TOOL.exe",
       "version": "1",
       "category": "atlas",
       "verified": true,
       "added_date": "2025-07-04T18:18:36.114263",
-      "updated_date": "2025-07-04T19:21:15.103012"
+      "updated_date": "2025-07-05T09:40:06.797503"
     },
     "2": {
       "name": "UNLOCK ALL",
@@ -58,5 +58,5 @@
     "total_apps": 6,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-04T19:21:15.103023"
+  "last_updated": "2025-07-05T09:40:06.797519"
 }
