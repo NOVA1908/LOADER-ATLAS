@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-07-05T16:39:30.823507",
+  "last_updated": "2025-07-05T16:40:04.921027",
   "statuses": {
     "1": {
-      "status": "offline",
-      "updated_at": "2025-07-05T16:39:30.823485",
+      "status": "undetected",
+      "updated_at": "2025-07-05T16:40:04.921005",
       "updated_by": "discord_user_280388361904979970"
     },
     "2": {
