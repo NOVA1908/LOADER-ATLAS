@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-06T21:25:09.246969",
+  "last_updated": "2025-07-06T22:19:51.465873",
   "statuses": {
     "1": {
       "status": "undetected",
@@ -32,8 +32,8 @@
       "updated_by": "discord_user_280388361904979970"
     },
     "7": {
-      "status": "undetected",
-      "updated_at": "2025-07-06T21:25:09.246939",
+      "status": "offline",
+      "updated_at": "2025-07-06T22:19:51.465851",
       "updated_by": "discord_user_280388361904979970"
     }
   },
