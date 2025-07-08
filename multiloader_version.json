@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "minimum_version": "1.0.1",
+  "version": "1.0.2",
+  "minimum_version": "1.0.2",
   "force_update": true,
-  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_225819_438152_6720fdd3_5c0fde66/azeaze.exe",
-  "changelog": "tiktok",
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_233604_751137_4e27fc12_3b2bf81f/ML.exe",
+  "changelog": "salamaleykhoum khoya",
   "release_date": "2025-07-08",
   "critical": true,
   "features": [
