@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "minimum_version": "1.0.1",
+  "force_update": true,
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_212230_292079_33a92ed3_bbae502e/test.exe",
+  "changelog": "test",
+  "release_date": "2025-07-08",
+  "critical": true,
+  "features": [
+    "Performance improvements",
+    "Bug fixes",
+    "Security updates"
+  ]
+}
