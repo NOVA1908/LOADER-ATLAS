@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "minimum_version": "1.0.2",
+  "version": "1.0.1",
+  "minimum_version": "1.0.1",
   "force_update": true,
-  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_220231_443145_c29e0b75_3b655647/ml2.exe",
-  "changelog": "testzerrrrr",
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_221038_866549_5de8c5ca_93a23d40/testt.exe",
+  "changelog": "testzerrrrrrrrrr le sang",
   "release_date": "2025-07-08",
   "critical": true,
   "features": [
