@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "minimum_version": "1.0.1",
+  "version": "1.0.2",
+  "minimum_version": "1.0.2",
   "force_update": true,
-  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_221038_866549_5de8c5ca_93a23d40/testt.exe",
-  "changelog": "testzerrrrrrrrrr le sang",
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_221700_086133_0f9811cf_f9f9fba4/testtt.exe",
+  "changelog": "test le sang de la veine",
   "release_date": "2025-07-08",
   "critical": true,
   "features": [
