@@ -1,14 +1,12 @@
 {
-  "version": "1.0.3",
-  "minimum_version": "1.0.3",
+  "version": "1.0.4",
+  "minimum_version": "1.0.4",
   "force_update": true,
-  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250708_235445_332830_5d2e67f7_d450813a/ML2.exe",
-  "changelog": "ATLAS",
-  "release_date": "2025-07-08",
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250709_111124_797974_d17307cc_923e1f01/ATLAS.ML.exe",
+  "changelog": "ML ERROR WILL BE SENT ON DISCORD DIRECTLY",
+  "release_date": "2025-07-09",
   "critical": true,
   "features": [
-    "Performance improvements",
-    "Bug fixes",
-    "Security updates"
+    "Security / Performances / DEBUG"
   ]
 }
