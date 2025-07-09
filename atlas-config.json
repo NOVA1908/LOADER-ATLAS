@@ -20,11 +20,12 @@
     },
     "3": {
       "name": "BLACK EXTERNAL",
-      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250704_181534_703493_52059aa6_a2d4f999/BLACK.EXTERNAL.exe",
-      "version": "1",
+      "url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250709_173332_097417_dc099125_fb99a83a/BLACK.EXT.exe",
+      "version": "2",
       "category": "atlas",
       "verified": true,
-      "added_date": "2025-07-04T18:19:06.007194"
+      "added_date": "2025-07-04T18:19:06.007194",
+      "updated_date": "2025-07-09T17:33:54.572403"
     },
     "4": {
       "name": "FECURITY EXTERNAL",
@@ -67,5 +68,5 @@
     "total_apps": 7,
     "publisher": "NOVA1908"
   },
-  "last_updated": "2025-07-09T10:23:37.349692"
+  "last_updated": "2025-07-09T17:33:54.572416"
 }
