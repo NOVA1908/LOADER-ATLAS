@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "minimum_version": "1.0.5",
+  "version": "1.0.6",
+  "minimum_version": "1.0.6",
   "force_update": true,
-  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250710_083545_326427_70c81073_9c01cc2f/ML.update.exe",
-  "changelog": "ML ERROR FIXED",
+  "download_url": "https://github.com/NOVA1908/LOADER-ATLAS/releases/download/file_20250710_093347_748500_095168a7_60aa663a/ML6.exe",
+  "changelog": "LAUNCH FAILED FIXED",
   "release_date": "2025-07-10",
   "critical": true,
   "features": [
