@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-10T13:08:20.009920",
+  "last_updated": "2025-07-10T13:19:24.027599",
   "news": [
+    {
+      "id": "news_002",
+      "message": "salam",
+      "timestamp": "2025-07-10T13:19:24.027584",
+      "author_id": 280388361904979970
+    },
     {
       "id": "news_001",
       "message": "test",
@@ -10,6 +16,6 @@
   ],
   "metadata": {
     "created_by": "nova_bot",
-    "total_news": 1
+    "total_news": 2
   }
 }
