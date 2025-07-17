@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-07-16T11:24:44.166907",
+  "last_updated": "2025-07-17T16:26:48.952639",
   "statuses": {
     "1": {
-      "status": "undetected",
-      "updated_at": "2025-07-15T21:34:36.467365",
-      "updated_by": "discord_update_280388361904979970"
+      "status": "offline",
+      "updated_at": "2025-07-17T16:26:48.952582",
+      "updated_by": "discord_bulk_update_280388361904979970"
     },
     "2": {
       "status": "risky",
